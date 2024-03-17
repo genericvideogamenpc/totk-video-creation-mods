@@ -6,7 +6,7 @@ Check out my save-editor fork!
 https://github.com/genericvideogamenpc/totk-modified
 
 # Description of my mods:
-Note that all of these mods were intended for use on 1.1.1, some of them may work in other versions, but I cannot guarentee success.
+Note that all of these mods were intended for use on 1.1.1, some of them may work in other versions, but I cannot guarentee they will work.
 1. Greenscreen Slabs
 
 Greenscreen slabs is a mod that turns DgnObj_Small_BoardStone_A_03 into a completely green object, though it has visual bugs. It also changes some of the textures of a few other things, since I was too lazy to make sure I was only changing the texture of the object. If you want help spawning the object, check out my save editor, linked above! You can edit your save and get that object and spawn it by dropping (specifically through DPAD-UP, as the inventory menu breaks when you try to select it.
