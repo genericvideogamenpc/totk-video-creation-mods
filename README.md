@@ -9,15 +9,15 @@ https://github.com/genericvideogamenpc/totk-modified
 Note that all of these mods were intended for use on 1.1.1, some of them may work in other versions, but I cannot guarentee they will work.
 1. Greenscreen Slabs
 
-Greenscreen slabs is a mod that turns DgnObj_Small_BoardStone_A_03 into a completely green object, though it has visual bugs. It also changes some of the textures of a few other things, since I was too lazy to make sure I was only changing the texture of the object. If you want help spawning the object, check out my save editor, linked above! You can edit your save and get that object and spawn it by dropping (specifically through DPAD-UP, as the inventory menu breaks when you try to select it.
+Greenscreen slabs is a mod that turns DgnObj_Small_BoardStone_A_03 into a completely green object, though it has visual bugs. It also changes some of the textures of a few other things, since I was too lazy to make sure I was only changing the texture of the object. If you want help spawning the object, check out my save editor, linked above! You can edit your save and get that object and spawn it by dropping (specifically through DPAD-UP, as the inventory menu breaks when you try to select it).
  
  
-3. Bluescreen Slabs
+2. Bluescreen Slabs
    
 Same as above, just with blue slabs instead of green.
 
 
-5. No Bloom
+3. No Bloom
    
 Disables that pesky bloom! This can help improve the look of light as the game is extremely heavy on its use of bloom. Great with greenscreen or bluescreen!
 
@@ -31,7 +31,7 @@ These mods may range in a lot of versions and contains links to their repositori
   
   This is a seperate mod that removes bloom from only the inventory. The bloom mod I have created does not remove this. Incompatible with my bloom mod. In the future I may make a version of the mod which removes bloom from the inventory as well, just don't have time.
 
-3. Ultracam
+2. Ultracam
 
 https://gamebanana.com/mods/480138
 
