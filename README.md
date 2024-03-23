@@ -2,7 +2,7 @@
 
 Up above are a list of mods I personally made for use in creating content, though I don't make videos personally, I'm sure these tools will be off use to other people. Most of these mods can be used seperately, but in some cases may need to be combined. Should this occur,  multiple versions of the mod may be created. If you have any issues with the mods, please do let me know!
 
-Check out my save-editor fork!
+Check out my fork of the TOTK save editor!
 https://github.com/genericvideogamenpc/totk-modified
 
 # Description of my mods:
