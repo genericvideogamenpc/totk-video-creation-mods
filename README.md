@@ -21,11 +21,11 @@ Same as above, just with blue slabs instead of green. Recommended with No Bloom.
    
 Disables that pesky bloom! This can help improve the look of light as the game is extremely heavy on its use of bloom. Great with greenscreen or bluescreen! Removes both world bloom and inventory bloom.
 
-4. Greenscreen Background
+4. Greenscreen Background (1.1.1)
    
 Sets the color of the inventory background to green. Recommended for use with No Bloom.
 
-5. Bluescreen Background
+5. Bluescreen Background (1.1.1)
    
 Same as greenscreen background, with blue. Use with No Bloom.
 
