@@ -7,19 +7,19 @@ https://github.com/genericvideogamenpc/totk-modified
 
 # Description of my mods:
 Note that all of these mods were intended for use on 1.1.1, some of them may work in other versions, but I cannot guarentee they will work.
-1. Greenscreen Slabs
+1. Greenscreen Slabs (All versions?)
 
-Greenscreen slabs is a mod that turns DgnObj_Small_BoardStone_A_03 into a completely green object, though it has visual bugs. It also changes some of the textures of a few other things, since I was too lazy to make sure I was only changing the texture of the object. If you want help spawning the object, check out my save editor, linked above! You can edit your save and get that object and spawn it by dropping (specifically through DPAD-UP, as the inventory menu breaks when you try to select it).
+Greenscreen slabs is a mod that turns DgnObj_Small_BoardStone_A_03 into a completely green object. It may changes some of the textures of a few other things. If you want help spawning the object, check out my save editor, linked above! You can edit your save and get that object and spawn it by dropping (specifically through DPAD-UP, as the inventory menu breaks when you try to select it). Recommended with No Bloom.
  
  
-2. Bluescreen Slabs
+2. Bluescreen Slabs (All versions?)
    
-Same as above, just with blue slabs instead of green.
+Same as above, just with blue slabs instead of green. Recommended with No Bloom.
 
 
-3. No Bloom
+3. No Bloom (All versions?)
    
-Disables that pesky bloom! This can help improve the look of light as the game is extremely heavy on its use of bloom. Great with greenscreen or bluescreen!
+Disables that pesky bloom! This can help improve the look of light as the game is extremely heavy on its use of bloom. Great with greenscreen or bluescreen! Removes both world bloom and inventory bloom.
 
 
   
@@ -29,7 +29,7 @@ These mods may range in a lot of versions and contains links to their repositori
 
   https://gamebanana.com/mods/471638
   
-  This is a seperate mod that removes bloom from only the inventory. The bloom mod I have created does not remove this. Incompatible with my bloom mod. In the future I may make a version of the mod which removes bloom from the inventory as well, just don't have time.
+  This is a seperate mod that removes bloom from only the inventory.
 
 2. Ultracam
 
